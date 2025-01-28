@@ -6,10 +6,6 @@
   "scripts": {
     "dev": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://kdt-gitlab.elice.io/sw_track/class_06/web_project/team10/backend.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
